@@ -1,0 +1,10 @@
+[
+    {
+        "name" : "Milan",
+        "age" : "22",
+        "gender" : "male",
+        "subjects" : "location",
+        "address" : "Kochi",
+        "sports" : "football"
+    }
+]
