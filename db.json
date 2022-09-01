@@ -4,8 +4,11 @@
             "name": "Milan",
             "age": "22",
             "gender": "male",
-            "subjects": "location",
-            "address": "Kochi",
+            "subjects": [
+                "maths","english","chemistry","physics","hindi"
+            ],
+            "address": "Maradu,Kochi",
+            "location":"Kochi",
             "sports": "football"
         }
     ]
