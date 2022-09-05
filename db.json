@@ -8,10 +8,10 @@
             "subject" : "Maths",
             "address": "Maradu,Kochi",
             "location":"Kochi",
-            "football":"true",
-            "cricket" : "true",
-            "hockey" :"false",
-            "basketball" :"false"
+            "football":true,
+            "cricket" : true,
+            "hockey" :false,
+            "basketball" :false
         }
     ]
 }
